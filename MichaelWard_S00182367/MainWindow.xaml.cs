@@ -24,5 +24,15 @@ namespace MichaelWard_S00182367
         {
             InitializeComponent();
         }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            //var query = from a in db.packages
+            //            where a.phone == p1
+            //            select a;
+            //packages.Itemsource = query.ToList();
+        }
+
+       
     }
 }
