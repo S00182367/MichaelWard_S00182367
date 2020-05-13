@@ -17,5 +17,11 @@ namespace MichaelWard_S00182367
         public string OS_Images { get; set; }
 
         public string Phone_Image { get; set; }
+
     }
+
+    //public void IncreasePrice()
+    //{
+
+    //}
 }
